@@ -1,0 +1,17 @@
+0x08. Networking basics #1
+
+Requirements
+Allowed editors: vi, vim, emacs
+All your files will be interpreted on Ubuntu 20.04 LTS
+Your Bash script must pass Shellcheck (version 0.7.0 via apt-get) without any errors
+
+Tasks
+0. Change your home IP
+Write a Bash script that configures an Ubuntu server with the below requirements.
+
+1. Show attached IPs
+Write a Bash script that displays all active IPv4 IPs on the machine it’s executed on.
+
+
+2. Port listening on localhost
+Write a Bash script that listens on port 98 on localhost.
